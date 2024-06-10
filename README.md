@@ -16,7 +16,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **kotlin**
 
 - 💬 Ask me about **Java**
 
