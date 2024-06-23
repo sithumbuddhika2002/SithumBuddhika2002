@@ -24,7 +24,8 @@
 
 - ⚡ Fun fact **Call me as hunter**
 
-- <a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/sithumbuddhika2002?label=Followers&style=social" alt="GitHub Badge"></a>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumbuddhika2002" alt="akhilgkrishnan" /> </p>
+
 <br>
 
 <br><br>
