@@ -134,6 +134,10 @@
 <a href="https://fb.com/sithum buddhika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithum buddhika" height="30" width="40" /></a>
 <a href="https://instagram.com/sithum_buddhika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithum_buddhika" height="30" width="40" /></a>
 <a href="https://www.behance.net/sithumbuddhika2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sithumbuddhika2002" height="30" width="40" /></a>
+<a href="https://sithum-buddhika-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://ibb.co/VwwSbBC" alt="Portfolio" height="30" width="40" />
+</a>
+
 </p>
 
 
