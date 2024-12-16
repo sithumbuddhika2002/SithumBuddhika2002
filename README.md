@@ -18,7 +18,11 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
+- 👨‍💻 I’m currently looking for a **Software Engineering Internship**
+
 - 💬 Ask me about **Java**
+
+- 🌐 Check out my portfolio: [sithum-buddhika-portfolio.vercel.app](https://sithum-buddhika-portfolio.vercel.app/)
 
 - 📫 How to reach me **sithumbuddhika2002@gmail.com**
 
