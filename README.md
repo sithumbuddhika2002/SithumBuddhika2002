@@ -16,9 +16,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Android Studio**
 
-- 👨‍💻 I’m currently looking for a **Software Engineering Internship**
+- 👨‍💻 I’m currently working in a **Software Engineer Intern At Foresight Engineering (Pvt) Ltd**
 
 - 💬 Ask me about **Java**
 
