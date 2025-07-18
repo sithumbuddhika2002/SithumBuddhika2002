@@ -16,7 +16,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **XCode with SwiftUI**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 I’m currently working in a **Software Engineer Intern At Foresight Engineering (Pvt) Ltd**
 
