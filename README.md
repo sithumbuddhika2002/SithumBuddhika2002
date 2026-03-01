@@ -102,7 +102,7 @@ public class SithumBuddhika {
 
 <div align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=sithumbuddhika2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+       src="github-readme-stats-qn57.vercel.app/api?username=sithumbuddhika2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumbuddhika2002&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
