@@ -101,10 +101,8 @@ public class SithumBuddhika {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em"
-       src="github-readme-stats-qn57.vercel.app/api?username=sithumbuddhika2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumbuddhika2002&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sithumbuddhika2002&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sithumbuddhika2002&theme=tokyonight" />
 </div>
 
 <br/>
@@ -116,7 +114,7 @@ public class SithumBuddhika {
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sithumbuddhika2002&theme=tokyo-night&hide_border=true&area=true&custom_title=Sithum%27s%20Contribution%20Graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=sithumbuddhika2002&bg_color=1a1b27&color=9d7fe3&line=9d7fe3&point=e2d9f3&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
 ---
