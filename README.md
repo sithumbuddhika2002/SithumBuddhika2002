@@ -101,8 +101,10 @@ public class SithumBuddhika {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sithumbuddhika2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumbuddhika2002&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=sithumbuddhika2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumbuddhika2002&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
 <br/>
@@ -129,13 +131,14 @@ public class SithumBuddhika {
 
 ## 🐍 Contribution Snake
 
-> ⚠️ **Setup required:** Add the GitHub Actions workflow below to generate the snake animation.
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sithumbuddhika2002/sithumbuddhika2002/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sithumbuddhika2002/sithumbuddhika2002/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sithumbuddhika2002/sithumbuddhika2002/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/sithumbuddhika2002/sithumbuddhika2002/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/sithumbuddhika2002/sithumbuddhika2002/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation"
+         src="https://raw.githubusercontent.com/sithumbuddhika2002/sithumbuddhika2002/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
